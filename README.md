@@ -19,3 +19,8 @@
     - Help users plan their trips effectively and efficiently.
     - Provide safety tips and guidelines for travelers.
     O modelo utilizado pelo Copilot é o próprio Gpt-mini 4.0
+### Criação de Copilot em Branco
+    Nessa aula aprendi a criar um Copilot do 0 com a função "Create" do Copilot Studios, com essa função você basicamente junta as informações dos
+    outros 2 metodos, você pode dar uma descrição para seu agente, um conjunto de instruções, alem de uma base de sites para que ele pesquise, também
+    pode subir uma imageem para seu Copilot, nesse caso foi criado um Copilot da Dio, com nenhuma instrução especifica, em pt-br e com a seguinte 
+    descrição: "Este copiloto vai ser responsável por responder todas as dúvidas de IA".
