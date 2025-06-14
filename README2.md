@@ -16,3 +16,4 @@ Ao retornar uma resposta para a pergunta do usúario você deve considerar:
 #### Knowledge
 eu adicionei o site do Microsoft Learn em sua aba de conhecimentos
 ### Costumizar um tópico
+Nessa aula foi criado um novo tópico em branco, onde foi possivel configurar suas frases de "trigger", ou seja de  gatilho
